@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h4{
+    margin-left: 10px;
+    vertical-align: top;
+    margin-top: 5px;
+}
+
+.radius{
+    width: 20px;
+    height: 20px;
+    background-color: #C2185B;
+    margin-left: 10px;
+    border-radius: 80%;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    padding: 1px;
+}
